@@ -5,5 +5,5 @@
 A Streaming app to stream PSVita screen to your computer via USB,
 and sound with line in/microfoon in.
 
-You will need to install, "PSVita UDCD USB Video Class plugin" by xerpi. https://github.com/xerpi/vita-udcd-uvc
+You will need to install, "PSVita UDCD USB Video Class plugin" by "xerpi" on your PSVita. https://github.com/xerpi/vita-udcd-uvc
 
